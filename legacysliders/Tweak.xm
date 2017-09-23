@@ -1,3 +1,8 @@
+/*
+// LegacySliders
+// Copyright © 2017 MaheshDJ & Degrager. All Rights Reserved
+*/
+
 @interface MPUMediaControlsVolumeView : UIView
 @property (nonatomic,readonly) UISlider * slider;
 @property (nonatomic,readonly) long long style;
